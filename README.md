@@ -1,5 +1,9 @@
 # GooleMapsDemo
 这是goole官方提供的demo，唯一的不同之处是，我添加了app_key，翻墙后，可以使其正常显示Google Maps Android API v2 Samples
+goole map sdk app_key值管理平台：https://console.developers.google.com/apis/credentials?project=curious-208711
+作者我现在只需要登录goole账号，添加应用appid和SHA1值即可使用，就可以使用该app_key了，哇咔咔
+教你如何获取app_key值：
+https://developers.google.com/maps/documentation/android-sdk/signup
 ===================================
 
 Samples demonstrating how to use
