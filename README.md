@@ -1,4 +1,5 @@
-Google Maps Android API v2 Samples
+# GooleMapsDemo
+这是goole官方提供的demo，唯一的不同之处是，我添加了app_key，翻墙后，可以使其正常显示Google Maps Android API v2 Samples
 ===================================
 
 Samples demonstrating how to use
@@ -77,3 +78,4 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
