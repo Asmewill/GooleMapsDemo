@@ -10,6 +10,13 @@
 
     Note: This resource is used for the debug build target. Update this file if you just want to run
     the demo app.
+
+     add by author shuijian
+     goole map sdk app_key值管理平台：https://console.developers.google.com/apis/credentials?project=curious-208711
+     只需要登录goole账号，添加应用appid和SHA1值即可使用
+     教你如何获取app_key值：
+     https://developers.google.com/maps/documentation/android-sdk/signup
+
     -->
     <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
         AIzaSyBTNEMOw8q3ZERq3Y4r3Gz7pPn3ANDFXho
